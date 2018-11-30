@@ -30,6 +30,14 @@ Alt-H2
 [I'm an inline-style link](https://www.google.com)
 
 
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
+
+
+
 ```SAS
 /*This program creates the comp.fundaclean file which includes lagged variables and only observations where 
 	indfmt='INDL' and datafmt='STD' and popsrc='D' and consol='C' 
